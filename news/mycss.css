@@ -1,0 +1,8 @@
+.bg {
+    background-color: #E0F2F7;
+}
+.full-width-div {
+    position: absolute;
+    width: 100%;
+    left: 0;
+}
