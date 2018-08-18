@@ -1,1 +1,1 @@
-# news-picnic-project
+# picnic-project
